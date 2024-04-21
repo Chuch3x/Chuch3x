@@ -1,7 +1,7 @@
 ### Hola 👋, mi nombre es [Chuch3x]
 
 #### Sobre mí
-Soy [Estudiante de Ingenieria en Sistemas] en la [Universidad Catolica Boliviana San Pablo].
+Soy Estudiante de Ingenieria en Sistemas en la Universidad Catolica Boliviana San Pablo.
 
 Habilidades:
 
