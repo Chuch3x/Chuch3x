@@ -1,9 +1,9 @@
-### Hola 👋, mi nombre es Chuch3x
+## Hola 👋, mi nombre es Chuch3x
 
 #### Sobre mí
 Soy Estudiante de Ingenieria en Sistemas en la Universidad Catolica Boliviana San Pablo.
 
-Habilidades:
+#### Habilidades:
 - 👨‍💻 Lenguajes de programación: <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30" height="30"/>
 - ⚙️ Frameworks/Librerías: <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30" height="30"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="30" height="30"/>
 - 🛢 Bases de datos: <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="30" height="30"/>
