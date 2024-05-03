@@ -89,5 +89,4 @@
 
 <img src="https://raw.githubusercontent.com/Chuch3x/Chuch3x/output/snake.svg" alt="Snake animation" />
 
-
 ###
