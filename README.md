@@ -13,6 +13,7 @@ I am a **systems engineering student** with experience in **web** and **mobile d
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -41,9 +42,9 @@ I am a **systems engineering student** with experience in **web** and **mobile d
 
 ## 📚 Currently Learning
 
-- Next.js  
+- Solidity
+- Foundry  
 - React Native   
-- Unity
 
 ---
 
